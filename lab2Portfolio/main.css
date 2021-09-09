@@ -1,0 +1,14 @@
+body {
+    background: #3f3f3f;
+    color: #d3d3d3;
+    font-family: Arial;
+    text-align: left;
+}
+ul {
+    font-family: Helvetica;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
